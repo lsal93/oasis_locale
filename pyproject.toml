@@ -55,7 +55,7 @@ plugins = [
   "nomad-parser-plugins-atomistic>=1.0",
   "nomad-parser-plugins-workflow>=1.0",
   "nomad-parser-plugins-database>=1.0",
-  "fabrication-facilities @ git+https://github.com/lsal93/Fabrication-utilities.git@aed70632cdabb2055ae629fa87c38fcc642698cc",
+  "fabrication-facilities @ git+https://github.com/lsal93/Fabrication-utilities.git@7b6e56be9ffd0c241b9f957d4dd5db0c4941dfd2",
 ]
 jupyter = []
 dev = ["nomad-lab[parsing, infrastructure, dev]>=1.3.4"]
